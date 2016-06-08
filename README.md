@@ -1,3 +1,4 @@
-interpreter for scheme
+Collection of interpreters for scheme.
 
-some demo from **the little schemer** 
+All interpreters can run in **DrRacket**.
+
